@@ -1,0 +1,192 @@
+[Root]
+Most Recent Package=PROJECT PROGRAMMING PART
+
+
+[Package|PROJECT PROGRAMMING PART|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\MATHS\Package
+
+[Package|PROJECT PROGRAMMING PART|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PROJECT PROGRAMMING PART|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PROJECT PROGRAMMING PART|Files Found]
+
+[Package|PROJECT PROGRAMMING PART|Files Released]
+
+[Package|PROJECT PROGRAMMING PART|Missing Dependency Information]
+C:\Windows\System32\msstdfmt.dll=
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+
+[Package|PROJECT PROGRAMMING PART|Out-of-Date Dependency Information]
+C:\Windows\System32\MSCOMCTL.OCX=
+C:\Windows\System32\COMCT332.OCX=
+C:\Windows\System32\comdlg32.OCX=
+
+[Package|PROJECT PROGRAMMING PART|Files Added]
+c:\maths\maths.mdb=
+C:\MATHS\Project1.vbp=
+C:\MATHS\images\imagews.jpg=
+C:\MATHS\images\08.jpg=
+C:\MATHS\images\images.jpg=
+C:\MATHS\images\rol1.jpg=
+C:\MATHS\images\rolling-mills-stands.jpg=
+C:\MATHS\images\rolling-mills-55771-2396217.jpg=
+C:\MATHS\images\rol2.jpg=
+C:\MATHS\images\Wire Rod Mill_01.bmp=
+C:\MATHS\images\rollmill3.jpg=
+
+[Package|PROJECT PROGRAMMING PART|Files Removed]
+
+[Package|PROJECT PROGRAMMING PART|Files In Project]
+C:\MATHS\Project Calculation Program.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\Windows\System32\TABCTL32.OCX=Yes
+C:\Windows\System32\MSFLXGRD.OCX=Yes
+C:\Windows\System32\comdlg32.OCX=Yes
+C:\Windows\System32\MSCOMCT2.OCX=Yes
+C:\Windows\System32\MSINET.OCX=Yes
+C:\Windows\System32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Windows\System32\MSCHRT20.OCX=Yes
+C:\Windows\System32\MSWINSCK.OCX=Yes
+C:\Windows\System32\MSMAPI32.OCX=Yes
+C:\Windows\System32\MCI32.OCX=Yes
+C:\Windows\System32\PICCLP32.OCX=Yes
+C:\Windows\System32\SYSINFO.OCX=Yes
+C:\Windows\System32\MSCOMM32.OCX=Yes
+C:\Windows\System32\MSMASK32.OCX=Yes
+C:\Windows\System32\MSDATGRD.OCX=Yes
+C:\Windows\System32\msstdfmt.dll=Yes
+C:\Windows\System32\MSDATLST.OCX=Yes
+C:\Windows\System32\COMCT332.OCX=Yes
+C:\Windows\System32\MSADODC.OCX=Yes
+C:\Windows\System32\MSHFLXGD.OCX=Yes
+C:\Windows\System32\DBLIST32.OCX=Yes
+C:\Windows\System32\COMCT232.OCX=Yes
+C:\Windows\System32\COMCTL32.OCX=Yes
+C:\Windows\System32\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\MATHS\maths.mdb=Yes
+C:\MATHS\Project1.vbp=Yes
+C:\MATHS\images\imagews.jpg=Yes
+C:\MATHS\images\08.jpg=Yes
+C:\MATHS\images\images.jpg=Yes
+C:\MATHS\images\rol1.jpg=Yes
+C:\MATHS\images\rolling-mills-stands.jpg=Yes
+C:\MATHS\images\rolling-mills-55771-2396217.jpg=Yes
+C:\MATHS\images\rol2.jpg=Yes
+C:\MATHS\images\Wire Rod Mill_01.bmp=Yes
+C:\MATHS\images\rollmill3.jpg=Yes
+
+[Package|PROJECT PROGRAMMING PART|Configure Registry Files]
+Applicable=No
+
+[Package|PROJECT PROGRAMMING PART|Configure Remote Servers]
+Applicable=No
+
+[Package|PROJECT PROGRAMMING PART|Install Locations]
+C:\MATHS\Project Calculation Program.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\Windows\System32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\comdlg32.OCX=$(WinSysPath)
+C:\Windows\System32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\System32\MSINET.OCX=$(WinSysPath)
+C:\Windows\System32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\System32\MSWINSCK.OCX=$(WinSysPath)
+C:\Windows\System32\MSMAPI32.OCX=$(WinSysPath)
+C:\Windows\System32\MCI32.OCX=$(WinSysPath)
+C:\Windows\System32\PICCLP32.OCX=$(WinSysPath)
+C:\Windows\System32\SYSINFO.OCX=$(WinSysPath)
+C:\Windows\System32\MSCOMM32.OCX=$(WinSysPath)
+C:\Windows\System32\MSMASK32.OCX=$(WinSysPath)
+C:\Windows\System32\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\System32\msstdfmt.dll=$(WinSysPath)
+C:\Windows\System32\MSDATLST.OCX=$(WinSysPath)
+C:\Windows\System32\COMCT332.OCX=$(WinSysPath)
+C:\Windows\System32\MSADODC.OCX=$(WinSysPath)
+C:\Windows\System32\MSHFLXGD.OCX=$(WinSysPath)
+C:\Windows\System32\DBLIST32.OCX=$(WinSysPath)
+C:\Windows\System32\COMCT232.OCX=$(WinSysPath)
+C:\Windows\System32\COMCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\MATHS\maths.mdb=$(AppPath)
+C:\MATHS\Project1.vbp=$(AppPath)
+C:\MATHS\images\imagews.jpg=$(AppPath)
+C:\MATHS\images\08.jpg=$(AppPath)
+C:\MATHS\images\images.jpg=$(AppPath)
+C:\MATHS\images\rol1.jpg=$(AppPath)
+C:\MATHS\images\rolling-mills-stands.jpg=$(AppPath)
+C:\MATHS\images\rolling-mills-55771-2396217.jpg=$(AppPath)
+C:\MATHS\images\rol2.jpg=$(AppPath)
+C:\MATHS\images\Wire Rod Mill_01.bmp=$(AppPath)
+C:\MATHS\images\rollmill3.jpg=$(AppPath)
+
+[Package|PROJECT PROGRAMMING PART|Configure Shared Files]
+Applicable=Yes
+C:\MATHS\Project Calculation Program.exe=No
+C:\MATHS\maths.mdb=No
+C:\MATHS\Project1.vbp=No
+C:\MATHS\images\imagews.jpg=No
+C:\MATHS\images\08.jpg=No
+C:\MATHS\images\images.jpg=No
+C:\MATHS\images\rol1.jpg=No
+C:\MATHS\images\rolling-mills-stands.jpg=No
+C:\MATHS\images\rolling-mills-55771-2396217.jpg=No
+C:\MATHS\images\rol2.jpg=No
+C:\MATHS\images\Wire Rod Mill_01.bmp=No
+C:\MATHS\images\rollmill3.jpg=No
+
+[Package|PROJECT PROGRAMMING PART|Distribution]
+Type=single
+Size=
+Title=PROJECT PROGRAMMING PART
+
+[Package|PROJECT PROGRAMMING PART|Package]
+PackageFolder=C:\MATHS\Package
+ProjectFolder=C:\MATHS
+ServerSideCab=
+File1=C:\MATHS\Package\setup.exe
+File2=C:\MATHS\Package\Setup.Lst
+File3=C:\MATHS\Package\Project Calculation Program.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|PROJECT PROGRAMMING PART|IconGroups]
+Group0=PROJECT PROGRAMMING PART
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|PROJECT PROGRAMMING PART|PROJECT PROGRAMMING PART]
+Icon1="Project Calculation Program.exe"
+Title1=PROJECT PROGRAMMING PART
+StartIn1=$(AppPath)
+Key1=Icon1
